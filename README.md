@@ -2,7 +2,12 @@
 
 A new Flutter project.
 
-![alt text](https://github.com/jdrios-dev/courses-app-flutter/tree/main/assets/blob/main/app1.jpg?raw=true)
+
+Try this markdown:
+
+![Home Screen](https://github.com/jdrios-dev/courses-app-flutter/blob/main/assets/app1.png?raw=true)
+![Detail Screen](https://github.com/jdrios-dev/courses-app-flutter/blob/main/assets/app2.png?raw=true)
+
 
 ## Getting Started
 

@@ -1,13 +1,11 @@
-# courses_app
+# Courses App
 
 A new Flutter project.
-
-
-Try this markdown:
 
 ![Home Screen](https://github.com/jdrios-dev/courses-app-flutter/blob/main/assets/app1.png?raw=true)
 ![Detail Screen](https://github.com/jdrios-dev/courses-app-flutter/blob/main/assets/app2.png?raw=true)
 
+Design: https://dribbble.com/shots/16149674-Course-learning-app-ui-ux/attachments/8004958?mode=media
 
 ## Getting Started
 

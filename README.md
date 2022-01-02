@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/jdrios-dev/courses-app-flutter/blob/main/app1.jpg?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
